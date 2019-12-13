@@ -15,9 +15,9 @@ of chars], longest
 distance between chars is 10 (in case of 2 or more characters).
 
 
-![Image of Yaktocat](https://cdn1.imggmi.com/uploads/2019/12/13/499d2735a0e452028eb8bdbfefe8e88c-full.png)
+![Home Page](https://cdn1.imggmi.com/uploads/2019/12/13/499d2735a0e452028eb8bdbfefe8e88c-full.png)
 
-![Image of Yaktocat](https://cdn1.imggmi.com/uploads/2019/12/13/47f7d25104fae04c5ca359f5e8e6fd93-full.png)
+![Analyse](https://cdn1.imggmi.com/uploads/2019/12/13/47f7d25104fae04c5ca359f5e8e6fd93-full.png)
 
 
 ## Installation
